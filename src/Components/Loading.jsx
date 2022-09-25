@@ -4,7 +4,7 @@ import * as Loader from 'react-loader-spinner';
 const Loading = () => {
   return (
     <div className='flex justify-center items-center'>
-        <Loader type="Puff" color="#00BFF" height={550} width={80} />
+        <Loader.Circles color="#000BFF" height={550} width={80} />
     </div>
   )
 }
