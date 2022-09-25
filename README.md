@@ -1,2 +1,1 @@
-# Search
-A search application that uses google's API to execute your seacrh parameter.
+A search engine created with react and tailwind css, with the help of google api.
